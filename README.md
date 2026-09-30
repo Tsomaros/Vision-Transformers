@@ -315,9 +315,3 @@ GitHub: [@Tsomaros](https://github.com/Tsomaros)
 ## Repository
 
 [https://github.com/Tsomaros/Vision-Transformers](https://github.com/Tsomaros/Vision-Transformers)
-
----
-
-## License
-
-This repository contains research and educational code developed as part of a diploma thesis. Please check the individual files and referenced projects for their respective licenses and attribution requirements.
