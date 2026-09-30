@@ -4,7 +4,7 @@ This repository contains the code and experimental notebooks developed for my di
 
 The work focuses on a comparative study of modern deep learning architectures for **image classification, object detection, robustness evaluation, and medical image analysis**, with particular emphasis on Vision Transformer (ViT) and Transformer-based models.
 
-> **Thesis project:** Comparative evaluation of CNN, Transformer, and hybrid architectures for image classification, and object detection.
+> **Thesis project:** Comparative evaluation of CNN, Transformer, and hybrid architectures for image classification and object detection.
 
 ---
 
